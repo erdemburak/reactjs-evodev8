@@ -30,6 +30,7 @@ function UseEffectOdev7() {
 
     return (<>
         <div style={{ padding: '2%' }}>
+            <h1>Suppliers Length: {suppliers.length}</h1>
 
             <table className='w3-table w3-striped w3-bordered w3-hoverable'>
                 <thead>

@@ -16,8 +16,8 @@ function App() {
       <li><Link to='/about'>About</Link></li>
       <li><Link to='/contact'>Contact</Link></li>
       <li><Link to='/customers'>Customers</Link></li>
-      <li><Link to='/orderpage'>Orders</Link></li>
-      <li><Link to='/suppliersodev'>Suppliers Odev</Link></li>
+      <li><Link to='/orderpage'>Orders(Odev8/2 Date)</Link></li>
+      <li><Link to='/suppliersodev'>Odev8 Suppliers</Link></li>
     </ul>
 
     <Routes>
