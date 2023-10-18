@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/reactjs-evodev8/static/js/main.2d040fa4.js",
+    "main.css": "/reactjs-evodev8/static/css/main.a2fce32c.css",
+    "main.js": "/reactjs-evodev8/static/js/main.2cf6fce3.js",
     "index.html": "/reactjs-evodev8/index.html",
-    "main.2d040fa4.js.map": "/reactjs-evodev8/static/js/main.2d040fa4.js.map"
+    "main.a2fce32c.css.map": "/reactjs-evodev8/static/css/main.a2fce32c.css.map",
+    "main.2cf6fce3.js.map": "/reactjs-evodev8/static/js/main.2cf6fce3.js.map"
   },
   "entrypoints": [
-    "static/js/main.2d040fa4.js"
+    "static/css/main.a2fce32c.css",
+    "static/js/main.2cf6fce3.js"
   ]
 }
